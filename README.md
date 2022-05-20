@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/07/kubernetes.jpg?resize=821%2C714&ssl=1"  height="90" width="90" />
+    <img src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/07/kubernetes.jpg?resize=821%2C714&ssl=1"  height="90" width="105" />
   </a>
 
   <a href="https://git-scm.com/" target="_blank" >
