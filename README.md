@@ -1,8 +1,9 @@
-� My name is Paschal, 
-�
+# Hey There👋 ... 
 
-� Welcome to my profile
-�
+My name is Paschal, Welcome to my profile. <img src="img/logo/welcome.png" height="50" />
+
+### Connect with me
+
 ---
 <p align="center">
   <a href="mailto:ogupaschal16@gmail.com" target="_blank">
