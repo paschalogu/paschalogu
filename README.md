@@ -2,9 +2,10 @@
 
 My name is Paschal, Welcome to my profile. <img src="img/logo/welcome.png" height="50" />
 
+---
+
 ### Connect with me
 
----
 <p align="center">
   <a href="mailto:ogupaschal16@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
