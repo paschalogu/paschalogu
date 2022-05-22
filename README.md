@@ -21,7 +21,7 @@ My name is Paschal, Welcome to my profile. <img src="img/logo/welcome.png" heigh
 </p>
 
 ---
-### What I am learning in Devops
+### Devops Stack I play with:
 
 <p align="center">
   <a href="https://kubernetes.io/" target="_blank" >
