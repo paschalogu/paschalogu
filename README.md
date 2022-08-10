@@ -1,6 +1,6 @@
 ## Hey There👋 ... 
 
-My name is Paschal, Welcome to my profile. <img src="img/logo/welcome.png" height="50" />
+My name is Paschal, Welcome to my GitHub profile. <img src="img/logo/welcome.png" height="50" />
 
 ---
 
