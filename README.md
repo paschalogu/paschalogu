@@ -1,6 +1,6 @@
 <img src="img/githubs.png" width="100%">
 
-## Hey There👋 ... Welcome to my GitHub profile. <img src="img/logo/welcome.png" height="50" />
+## Hey There👋 ... Welcome to my profile. <img src="img/logo/welcome.png" height="50" />
 
 ---
 
