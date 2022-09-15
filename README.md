@@ -2,6 +2,13 @@
 
 ## Hey There👋 ... Welcome to my profile. <img src="img/logo/welcome.png" height="50" />
 
+- My name is Paschal Ikenna Ogu
+- My pronouns are he/him
+- I’m interested in Cloud Devops, Cloud Development, Cloud Architecture and Infrastructure
+- I’m looking to collaborate working on a variety of technologies including AWS, Azure and Google Cloud.
+- My top used stacks are Aws services, Terraform, Ansible, Azure, GCP, CI/CD, Docker, Kubernates, Microservices, Linus, Git
+- Ask me about anything cloud DevOps, Cloud development and Architecture.
+
 ---
 
 ### Connect with me
