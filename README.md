@@ -28,7 +28,7 @@
 </p>
 
 ---
-### Devops Stack I play with:
+### Devops Stack I build with:
 
 <p align="center">
   <a href="https://kubernetes.io/" target="_blank" >
