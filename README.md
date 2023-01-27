@@ -68,7 +68,3 @@ You can find me on [![Twitter][1.2]][1] [Twitter](https://twitter.com/Paschal_ik
 
 [1]: https://twitter.com/paschal_ik/
 [2]: https://www.linkedin.com/in/paschal-ogu/
-
-
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{paschalogu}/count.svg)
