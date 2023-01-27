@@ -46,11 +46,18 @@
   <a href="https://www.jenkins.io/" target="_blank" >
     <img src="img/logo/jenkins.png"  height="110" width="90"/>
   </a>
-</p>
 
+<a href="https://ubuntu.com/" target="_blank" >
+    <img src="img/logo/linux.png"  height="110" width="100"/>
+  </a>
+
+<a href="https://www.ansible.com/" target="_blank" >
+    <img src="img/logo/ansible.png"  height="110" width="110"/>
+  </a>
+</p>
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on [![Twitter][1.2]][1] [Twitter](https://twitter.com/Paschal_ik), or on [![LinkedIn][2.2]][2] [LinkedIn](https://www.linkedin.com/in/paschal-ogu/).
 
 <!-- Icons -->
 
