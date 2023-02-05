@@ -1,13 +1,14 @@
 <img src="img/githubs.png" width="100%">
 
-## Hey There👋 ... Welcome to my profile. <img src="img/logo/welcome.png" height="50" />
+# Hey There👋 ... Welcome to my profile. <img src="img/logo/welcome.png" height="50" />
 
 - My name is Paschal Ikenna Ogu
 - My pronouns are he/him
 - I’m interested in Cloud Devops, Cloud Development, Cloud Architecture and Infrastructure
 - I’m looking to collaborate working on a variety of technologies including AWS, Azure and Google Cloud.
-- My top used stacks are Aws services, Terraform, Ansible, Azure, GCP, CI/CD, Docker, Kubernates, Microservices, Linus, Git
+- My top used stacks are AWS services, Terraform, Ansible, Azure, GCP, CI/CD, Docker, Kubernates, Microservices, Linus, Git
 - Ask me about anything cloud DevOps, Cloud development and Architecture.
+
 
 ---
 
@@ -68,3 +69,6 @@ You can find me on [![Twitter][1.2]][1] [Twitter](https://twitter.com/Paschal_ik
 
 [1]: https://twitter.com/paschal_ik/
 [2]: https://www.linkedin.com/in/paschal-ogu/
+
+---
+![](https://komarev.com/ghpvc/?username=paschalogu&label=Profile%20views&color=blue&style=flat)
