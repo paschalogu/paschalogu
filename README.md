@@ -2,12 +2,12 @@
 
 # Hey There👋 ... Welcome to my profile. <img src="img/logo/welcome.png" height="50" />
 
-- My name is Paschal Ikenna Ogu
-- My pronouns are he/him
-- I’m interested in Cloud Devops, Cloud Development, Cloud Architecture and Infrastructure
+- My name is Paschal Ogu.
+- My pronouns are He/Him.
+- I’m interested in Cloud Devops, Cloud Development, Cloud Architecture and Infrastructure.
 - I’m looking to collaborate working on a variety of technologies including AWS, Azure and Google Cloud.
-- My top used stacks are AWS services, Terraform, Ansible, Azure, GCP, CI/CD, Docker, Kubernates, Microservices, Linus, Git
-- Ask me about anything cloud DevOps, Cloud development and Architecture.
+- My top used stacks are Python, Azure services, Terraform, Ansible, Azure, GCP, CI/CD, Docker, Kubernates, Microservices, Linus, Git.
+- Ask me about anything Cloud DevOps, Cloud Development and Architecture.
 
 
 ---
@@ -32,6 +32,10 @@
 ### Devops Stack I build with:
 
 <p align="center">
+    <a href="https://www.python.org/" target="_blank" >
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*nfTIn7xNP0pN9xj6eKFaOA.jpeg"  height="90" width="105" />
+  </a>
+  
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/07/kubernetes.jpg?resize=821%2C714&ssl=1"  height="90" width="105" />
   </a>
