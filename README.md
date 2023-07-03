@@ -62,6 +62,12 @@
 </p>
 <!-- Actual text -->
 
+---
+### Latest BlogPosts on Dev Communnity
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+---
 You can find me on [![Twitter][1.2]][1] [Twitter](https://twitter.com/Paschal_ik), or on [![LinkedIn][2.2]][2] [LinkedIn](https://www.linkedin.com/in/paschal-ogu/).
 
 <!-- Icons -->
