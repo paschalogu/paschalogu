@@ -65,7 +65,11 @@
 ---
 ### Latest BlogPosts on Dev Communnity
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Configure Apache web server on Linux using Ansible](https://dev.to/paschalogu/how-to-configure-apache-web-server-on-linux-using-ansible-2mcd)
+- [Create Azure Virtual Machine &lpar;Linux VM&rpar; with Terraform](https://dev.to/paschalogu/create-azure-virtual-machine-linux-vm-with-terraform-29jp)
+- [Manage Profiles in VS Code](https://dev.to/paschalogu/manage-profiles-in-vs-code-1oe7)
+- [Set Up Terraform in your Jenkins Docker Container](https://dev.to/paschalogu/set-up-terraform-in-your-jenkins-docker-container-4mma)
+- [Working with Helm: Package Manager for Kubernetes](https://dev.to/paschalogu/helm-chart-57cj)
 <!-- BLOG-POST-LIST:END -->
 ---
 You can find me on [![Twitter][1.2]][1] [Twitter](https://twitter.com/Paschal_ik), or on [![LinkedIn][2.2]][2] [LinkedIn](https://www.linkedin.com/in/paschal-ogu/).
