@@ -63,7 +63,7 @@
 <!-- Actual text -->
 
 ---
-### Latest BlogPosts on Dev Communnity
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Configure Apache web server on Linux using Ansible](https://dev.to/paschalogu/how-to-configure-apache-web-server-on-linux-using-ansible-2mcd)
 - [Create Azure Virtual Machine &lpar;Linux VM&rpar; with Terraform](https://dev.to/paschalogu/create-azure-virtual-machine-linux-vm-with-terraform-29jp)
