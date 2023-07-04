@@ -72,7 +72,13 @@
 - [Working with Helm: Package Manager for Kubernetes](https://dev.to/paschalogu/helm-chart-57cj)
 <!-- BLOG-POST-LIST:END -->
 ---
+### View my verified badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+---
+
 You can find me on [![Twitter][1.2]][1] [Twitter](https://twitter.com/Paschal_ik), or on [![LinkedIn][2.2]][2] [LinkedIn](https://www.linkedin.com/in/paschal-ogu/).
+
 
 <!-- Icons -->
 
