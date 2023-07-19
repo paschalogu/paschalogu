@@ -3,9 +3,8 @@
 # Hey There👋 ... Welcome to my profile. <img src="img/logo/welcome.png" height="50" />
 
 - My name is Paschal Ogu.
-- My pronouns are He/Him.
 - I’m interested in Cloud Devops, Cloud Development, Cloud Architecture and Infrastructure.
-- I’m looking to collaborate working on a variety of technologies including AWS, Azure and Google Cloud.
+- I’m looking to collaborate and contribute on a variety of technologies.
 - My top used stacks are Python, Azure services, Terraform, Ansible, Azure, GCP, CI/CD, Docker, Kubernates, Microservices, Linus, Git.
 - Ask me about anything Cloud DevOps, Cloud Development and Architecture.
 
