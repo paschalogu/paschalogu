@@ -64,11 +64,11 @@
 ---
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions in Automation: Display Latest Blog Posts and Badges on your GitHub Profile](https://dev.to/paschalogu/github-actions-in-automation-display-latest-blog-posts-and-badges-on-your-github-profile-33hk)
 - [How to Configure Apache web server on Linux using Ansible](https://dev.to/paschalogu/how-to-configure-apache-web-server-on-linux-using-ansible-2mcd)
 - [Create Azure Virtual Machine &lpar;Linux VM&rpar; with Terraform](https://dev.to/paschalogu/create-azure-virtual-machine-linux-vm-with-terraform-29jp)
 - [Manage Profiles in VS Code](https://dev.to/paschalogu/manage-profiles-in-vs-code-1oe7)
 - [Set Up Terraform in your Jenkins Docker Container](https://dev.to/paschalogu/set-up-terraform-in-your-jenkins-docker-container-4mma)
-- [Working with Helm: Package Manager for Kubernetes](https://dev.to/paschalogu/helm-chart-57cj)
 <!-- BLOG-POST-LIST:END -->
 ---
 ### View my verified badges
