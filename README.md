@@ -73,7 +73,7 @@
 ---
 ### View my verified badges
 <!--START_SECTION:badges-->
-[![(ISC)² Candidate](https://images.credly.com/size/100x100/images/3829db50-49a8-4f30-85c5-639ffc4a7b2f/image.png)](http://www.credly.com/badges/6f112983-ecaf-4900-a31f-706267e8afe0 "(ISC)² Candidate")
+[![(ISC)² Candidate](https://images.credly.com/size/100x100/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/6f112983-ecaf-4900-a31f-706267e8afe0 "(ISC)² Candidate")
 [![Verified International Academic Qualifications](https://images.credly.com/size/100x100/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png)](http://www.credly.com/badges/34e217f8-60ac-475d-850a-7cd229321f6a "Verified International Academic Qualifications")
 [![OPSWAT Email Security Associate (OESA)](https://images.credly.com/size/100x100/images/29f296fa-3b5e-466e-b9d2-76dd676c98fd/image.png)](http://www.credly.com/badges/68074ea6-768c-4b02-b3ae-2d5724a4fdbe "OPSWAT Email Security Associate (OESA)")
 [![OPSWAT Introduction to Critical Infrastructure Protection (ICIP)](https://images.credly.com/size/100x100/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png)](http://www.credly.com/badges/d8c70f82-3154-4226-8d39-0a765b053ff9 "OPSWAT Introduction to Critical Infrastructure Protection (ICIP)")
