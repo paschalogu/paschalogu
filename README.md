@@ -64,7 +64,7 @@
 ---
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How I deployed my website as a container](https://dev.to/paschalogu/how-i-deployed-my-website-as-a-container-3fje)
+- [How I Deployed my Website as a Docker Container](https://dev.to/paschalogu/how-i-deployed-my-website-as-a-container-3fje)
 - [Project: Set up EKS, ECR, and MySQL Database using Terraform in AWS](https://dev.to/paschalogu/project-set-up-eks-ecr-and-mysql-database-using-terraform-in-aws-1l66)
 - [GitHub Actions in Automation: Display Latest Blog Posts and Badges on your GitHub Profile](https://dev.to/paschalogu/github-actions-in-automation-display-latest-blog-posts-and-badges-on-your-github-profile-33hk)
 - [How to Configure Apache web server on Linux using Ansible](https://dev.to/paschalogu/how-to-configure-apache-web-server-on-linux-using-ansible-2mcd)
