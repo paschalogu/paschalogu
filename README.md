@@ -73,6 +73,7 @@
 ---
 ### View my verified badges
 <!--START_SECTION:badges-->
+[![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/100x100/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](http://www.credly.com/badges/0ec8b9f2-256c-461c-a2b7-4ef254a06fea "Set Up an App Dev Environment on Google Cloud Skill Badge")
 [![ISC2 Candidate](https://images.credly.com/size/100x100/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/6f112983-ecaf-4900-a31f-706267e8afe0 "ISC2 Candidate")
 [![Verified International Academic Qualifications](https://images.credly.com/size/100x100/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png)](http://www.credly.com/badges/34e217f8-60ac-475d-850a-7cd229321f6a "Verified International Academic Qualifications")
 [![OPSWAT Email Security Associate (OESA)](https://images.credly.com/size/100x100/images/29f296fa-3b5e-466e-b9d2-76dd676c98fd/image.png)](http://www.credly.com/badges/68074ea6-768c-4b02-b3ae-2d5724a4fdbe "OPSWAT Email Security Associate (OESA)")
