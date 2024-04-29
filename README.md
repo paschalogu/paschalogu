@@ -73,6 +73,7 @@
 ---
 ### View my verified badges
 <!--START_SECTION:badges-->
+[![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/100x100/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](http://www.credly.com/badges/f0949940-7a1d-44ce-ac06-d19d6671bd7b "Implement Load Balancing on Compute Engine Skill Badge")
 [![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/100x100/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](http://www.credly.com/badges/0ec8b9f2-256c-461c-a2b7-4ef254a06fea "Set Up an App Dev Environment on Google Cloud Skill Badge")
 [![ISC2 Candidate](https://images.credly.com/size/100x100/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/6f112983-ecaf-4900-a31f-706267e8afe0 "ISC2 Candidate")
 [![Verified International Academic Qualifications](https://images.credly.com/size/100x100/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png)](http://www.credly.com/badges/34e217f8-60ac-475d-850a-7cd229321f6a "Verified International Academic Qualifications")
