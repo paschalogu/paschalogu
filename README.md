@@ -73,6 +73,8 @@
 ---
 ### View my verified badges
 <!--START_SECTION:badges-->
+[![Develop Your Google Cloud Network Skill Badge](https://images.credly.com/size/100x100/images/b126c61c-4781-4f03-9b2b-062963003abf/image.png)](http://www.credly.com/badges/f74225ee-a28c-4bbc-90c4-f84f6830980a "Develop Your Google Cloud Network Skill Badge")
+[![Build Infrastructure with Terraform on Google Cloud Skill Badge](https://images.credly.com/size/100x100/images/b18154fb-9bd3-47e5-a6f1-554be512947d/image.png)](http://www.credly.com/badges/3f7f5a91-7c94-46fa-83cf-284783323f6c "Build Infrastructure with Terraform on Google Cloud Skill Badge")
 [![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/100x100/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](http://www.credly.com/badges/16818dbe-fb07-4580-905e-4b4243cbafe7 "Build a Secure Google Cloud Network Skill Badge")
 [![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/100x100/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](http://www.credly.com/badges/f0949940-7a1d-44ce-ac06-d19d6671bd7b "Implement Load Balancing on Compute Engine Skill Badge")
 [![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/100x100/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](http://www.credly.com/badges/0ec8b9f2-256c-461c-a2b7-4ef254a06fea "Set Up an App Dev Environment on Google Cloud Skill Badge")
