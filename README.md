@@ -73,6 +73,7 @@
 ---
 ### View my verified badges
 <!--START_SECTION:badges-->
+[![Associate Cloud Engineer Certification](https://images.credly.com/size/100x100/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)](http://www.credly.com/badges/a765a0b0-d403-4180-b3e5-49c46666046c "Associate Cloud Engineer Certification")
 [![Develop Your Google Cloud Network Skill Badge](https://images.credly.com/size/100x100/images/b126c61c-4781-4f03-9b2b-062963003abf/image.png)](http://www.credly.com/badges/f74225ee-a28c-4bbc-90c4-f84f6830980a "Develop Your Google Cloud Network Skill Badge")
 [![Build Infrastructure with Terraform on Google Cloud Skill Badge](https://images.credly.com/size/100x100/images/b18154fb-9bd3-47e5-a6f1-554be512947d/image.png)](http://www.credly.com/badges/3f7f5a91-7c94-46fa-83cf-284783323f6c "Build Infrastructure with Terraform on Google Cloud Skill Badge")
 [![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/100x100/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](http://www.credly.com/badges/16818dbe-fb07-4580-905e-4b4243cbafe7 "Build a Secure Google Cloud Network Skill Badge")
