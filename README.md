@@ -64,11 +64,11 @@
 ---
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What developers really want](https://dev.to/paschalogu/what-developers-really-want-aae)
 - [I Passed Google Associate Cloud Engineer Certification Exam in One Sitting 🕺🏻🥳](https://dev.to/paschalogu/i-passed-google-associate-cloud-engineer-certification-gcp-ace-exam-in-one-sitting-2jfj)
 - [Simplified Virtual Development Environment on the Browser: GitHub Codespace](https://dev.to/paschalogu/simplified-virtual-development-environment-on-the-browser-github-codespace-1lab)
 - [My Journey to Cloud: A Review of Binvabian Technologies&#39; Program](https://dev.to/paschalogu/my-journey-to-cloud-a-review-of-binvabian-technologies-program-160b)
 - [How I Deployed my Website as a Docker Container](https://dev.to/paschalogu/how-i-deployed-my-website-as-a-container-3fje)
-- [Project: Set up EKS, ECR, and MySQL Database using Terraform in AWS](https://dev.to/paschalogu/project-set-up-eks-ecr-and-mysql-database-using-terraform-in-aws-1l66)
 <!-- BLOG-POST-LIST:END -->
 ---
 ### View my verified badges
