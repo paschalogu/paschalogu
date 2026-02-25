@@ -64,11 +64,11 @@
 ---
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Self-Host Metabase &amp; Why Your Team Should Too](https://dev.to/paschalogu/how-i-self-host-metabase-why-your-team-should-too-1a6l)
 - [Growing in a Job you Love: Simple Yet Powerful Strategies That Work](https://dev.to/paschalogu/growing-in-a-job-you-love-simple-yet-powerful-strategies-that-work-2mci)
 - [What developers really want](https://dev.to/paschalogu/what-developers-really-want-aae)
 - [I Passed Google Associate Cloud Engineer Certification Exam in One Sitting 🕺🏻🥳](https://dev.to/paschalogu/i-passed-google-associate-cloud-engineer-certification-gcp-ace-exam-in-one-sitting-2jfj)
 - [Simplified Virtual Development Environment on the Browser: GitHub Codespace](https://dev.to/paschalogu/simplified-virtual-development-environment-on-the-browser-github-codespace-1lab)
-- [My Journey to Cloud: A Review of Binvabian Technologies&#39; Program](https://dev.to/paschalogu/my-journey-to-cloud-a-review-of-binvabian-technologies-program-160b)
 <!-- BLOG-POST-LIST:END -->
 ---
 ### View my verified badges
