@@ -78,7 +78,7 @@
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/80x80/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](https://www.credly.com/badges/dae35ced-ba2e-409e-b8a9-0733e0590f17)
 [![Verified International Academic Qualifications](https://images.credly.com/size/80x80/images/28243fa9-71f4-4b55-9fb3-eab99e1dff95/image.png)](https://www.credly.com/badges/34e217f8-60ac-475d-850a-7cd229321f6a)
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/6c31ca06-9abd-4018-953e-25e2faa6275f)
-[![McKinsey.org Forward Program](https://images.credly.com/size/80x80/images/bad47198-deb5-48db-bbc3-85adb64db125/blob)](https://www.credly.com/badges/d4bb7141-04d5-4e8f-bc95-528e01449c60)
+[![McKinsey.org Forward Program](https://images.credly.com/size/80x80/images/94f4180f-4139-4529-9cd1-c5ae95b12f5f/blob)](https://www.credly.com/badges/d4bb7141-04d5-4e8f-bc95-528e01449c60)
 [![OPSWAT Introduction to Critical Infrastructure Protection (ICIP)](https://images.credly.com/size/80x80/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png)](https://www.credly.com/badges/d8c70f82-3154-4226-8d39-0a765b053ff9)
 [![OPSWAT Email Security Associate (OESA)](https://images.credly.com/size/80x80/images/29f296fa-3b5e-466e-b9d2-76dd676c98fd/image.png)](https://www.credly.com/badges/68074ea6-768c-4b02-b3ae-2d5724a4fdbe)
 [![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](https://www.credly.com/badges/0ec8b9f2-256c-461c-a2b7-4ef254a06fea)
